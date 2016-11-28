@@ -1,0 +1,32 @@
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+C:\Users\roberts.JORE_CORP.DMN\Documents\Visual Studio 2010\Projects\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+D:\Zin\VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+D:\Zin\VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+D:\Zin\VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+D:\Zin\VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.exe
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.xml
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.pdb
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.exe
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.pdb
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\bin\Debug\TCPClientClean.xml
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbprojResolveAssemblyReference.cache
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form1.resources
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Resources.resources
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.SingnUp.resources
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.vbproj.GenerateResource.Cache
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\bin\Debug\Oracle.DataAccess.dll
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.Form2.resources
+D:\Zin\Project VB\TCPClientClean\TCPClientClean\obj\x86\Debug\TCPClientClean.change.resources
